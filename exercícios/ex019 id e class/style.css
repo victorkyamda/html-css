@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&display=swap');
+
+body {
+    background-color: rgb(118, 196, 170);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(153, 182, 182);
+}
+
+h1#principal {
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+
+h2 {
+    color: rgb(39, 146, 146);
+}
+
+.basico {
+    color: green;
+}
+
+.intermediario {color: rgb(63, 98, 194);}
+
+.avancado {
+    color: rgb(162, 0, 255);
+}
+.cover {
+    background-color: rgb(203, 216, 82);
+    font-family: 'Castoro Titling';
+}
+
+.destaque {
+    background-color: rgb(141, 54, 54);
+}
+
